@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Scottish straight"
+    }, {
+      "trait_type" : "Cat hair color",
+      "value" : "black"
+    } ],
+    "description" : "The world's most adorable cat",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmcY1m3oANjx1Dhh4zXYe2WhWJyRDru4qQfL18vRU4BZRU",
+    "name" : "Rita"
+}
